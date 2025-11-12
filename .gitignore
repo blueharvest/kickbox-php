@@ -1,9 +1,6 @@
-# Composer
 /vendor/
 /composer.phar
-
-# PhpStorm
-/.idea/
-
-# PHPUnit
-/phpunit.xml
+.env
+.idea
+.phpunit*
+.php_cs*
